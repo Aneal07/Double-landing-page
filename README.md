@@ -1,5 +1,6 @@
 # Double-landing-page
 
+[Live site](https://aneal07.github.io/Double-landing-page/)
 
 This repository contains the code for a double landing page showcasing two products or brands. It is a simple yet interactive design where the landing page adjusts based on the side you are hovering over.
 
