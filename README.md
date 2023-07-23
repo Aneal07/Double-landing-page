@@ -1,4 +1,5 @@
 # Double-landing-page
+[Screenshot](double-landing.jpg)
 
 [Live site](https://aneal07.github.io/Double-landing-page/)
 
